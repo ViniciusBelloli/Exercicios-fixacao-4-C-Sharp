@@ -1,0 +1,13 @@
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\bin\Debug\netcoreapp3.1\Uri1067.exe
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\bin\Debug\netcoreapp3.1\Uri1067.deps.json
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\bin\Debug\netcoreapp3.1\Uri1067.runtimeconfig.json
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\bin\Debug\netcoreapp3.1\Uri1067.runtimeconfig.dev.json
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\bin\Debug\netcoreapp3.1\Uri1067.dll
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\bin\Debug\netcoreapp3.1\Uri1067.pdb
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.csprojAssemblyReference.cache
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.AssemblyInfoInputs.cache
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.AssemblyInfo.cs
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.dll
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.pdb
+C:\Users\Estudos\source\repos\Exercicios4\Exercicios4\obj\Debug\netcoreapp3.1\Uri1067.genruntimeconfig.cache
